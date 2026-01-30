@@ -1,0 +1,64 @@
+.trend{
+    font-size: 35px;
+    font-variant: small-caps;
+    padding-left: 50px;
+    margin: 20px;
+    font-weight: bolder;
+}
+.over{
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+    gap: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+    
+}
+
+.Montana{
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: bolder;
+    border: 3px rgb(231, 224, 224)solid;
+    border-radius:12px;
+    box-shadow: 4px 10px 8px grey;
+}
+.japan{
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: bolder;
+    border: 3px;
+    border: 3px rgb(231, 224, 224) solid;
+    border-radius: 12px;
+    box-shadow: 4px 10px 8px grey;
+}
+.Morocco{
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: bolder;
+    border: 3px;
+    border: 3px rgb(231, 224, 224) solid;
+    border-radius: 12px;
+    box-shadow: 4px 10px 8px grey; 
+}
+.srilanka{
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: bolder;
+    border: 3px;
+    border: 3px rgb(231, 224, 224) solid;
+    border-radius: 12px;
+    box-shadow: 4px 10px 8px grey; 
+}
+.spain{
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: bolder;
+    border: 3px;
+    border: 3px rgb(231, 224, 224) solid;
+    border-radius: 12px;
+    box-shadow: 4px 10px 8px grey; 
+}
+
+

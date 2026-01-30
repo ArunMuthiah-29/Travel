@@ -1,0 +1,380 @@
+.or{
+    font-size: 35px;
+    font-weight: bolder;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 50px;
+    font-variant: small-caps;
+}
+.go{
+    display: flex;
+    flex-direction: row;
+}
+.tto{
+    background-image: url(./hon\ 1.png);
+    color: #FFFFFF;
+     font-weight: 700;
+      letter-spacing: 1px;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+    font-size:45px;
+    font-family: cursive;
+     width: 300px;
+    height: 220px;
+    border: 2px;
+    border-radius: 30px;
+    padding-top: 170px;
+    margin: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+    background-size: cover;
+    text-align: center;
+}
+.tto:hover{
+    transform: scale(1.07);
+}
+.tot{
+    background-image: url(./hon\ 2.png);
+   color: #FFFFFF;
+     font-weight: 700;
+      letter-spacing: 1px;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+    font-size:42px;
+    font-family: cursive;
+     width: 300px;
+    height: 220px;
+    border: 2px;
+    border-radius: 30px;
+    padding-top: 170px;
+    margin: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+    background-size: cover;
+    text-align: center;
+}
+.tot:hover{
+    transform: scale(1.07);
+}
+.bo{
+    background-image: url(./hon\ 3.png);
+    color: #FFFFFF;
+     font-weight: 700;
+      letter-spacing: 1px;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+    font-size:45px;
+    font-family: cursive;
+     width: 300px;
+    height: 220px;
+    border: 2px;
+    border-radius: 30px;
+    padding-top: 170px;
+    margin: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+    background-size: cover;
+    text-align: center;
+}
+.bo:hover{
+    transform: scale(1.07);
+}
+.un{
+    background-image: url(./hon\ 4.png);
+    color: #FFFFFF;
+     font-weight: 700;
+      letter-spacing: 1px;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+    font-size:45px;
+    font-family: cursive;
+     width: 300px;
+    height: 220px;
+    border: 2px;
+    border-radius: 30px;
+    padding-top: 170px;
+    margin: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+    background-size: cover;
+    text-align: center;
+}
+.un:hover{
+    transform: scale(1.07);
+}
+.kg{
+    background-image: url(./hon\ 5.png);
+   color: #FFFFFF;
+     font-weight: 700;
+      letter-spacing: 1px;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+    font-size:38px;
+    font-family: cursive;
+     width: 300px;
+    height: 220px;
+    border: 2px;
+    border-radius: 30px;
+    padding-top: 170px;
+    margin: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+    background-size: cover;
+    text-align: center;
+}
+.kg:hover{
+    transform: scale(1.07);
+}
+.the{
+    background-image: url(./hon\ 6.png);
+    color: #FFFFFF;
+     font-weight: 700;
+      letter-spacing: 1px;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+    font-size:35px;
+    font-family: cursive;
+     width: 300px;
+    height: 220px;
+    border: 2px;
+    border-radius: 30px;
+    padding-top: 170px;
+    margin: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+    background-size: cover;
+    text-align: center;
+}
+.the:hover{
+    transform: scale(1.07);
+}
+.com{
+    background-image: url(./hon\ 7.png);
+      color: #FFFFFF;
+     font-weight: 700;
+      letter-spacing: 1px;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+    font-size:35px;
+    font-family: cursive;
+     width: 300px;
+    height: 220px;
+    border: 2px;
+    border-radius: 30px;
+    padding-top: 170px;
+    margin: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+    background-size: cover;
+    text-align: center;
+}
+.com:hover{
+    transform: scale(1.07);
+}
+.vay{
+    background-image: url(./hon\ 8.png);
+    color: #FFFFFF;
+     font-weight: 700;
+      letter-spacing: 1px;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+    font-size:35px;
+    font-family: cursive;
+     width: 300px;
+    height: 220px;
+    border: 2px;
+    border-radius: 30px;
+    padding-top: 170px;
+    margin: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+    background-size: cover;
+    text-align: center;
+}
+.vay:hover{
+    transform: scale(1.07);
+}
+.mr{
+    background-image: url(./hon\ 9.png);
+ color: #FFFFFF;
+     font-weight: 700;
+      letter-spacing: 1px;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+    font-size:35px;
+    font-family: cursive;
+     width: 300px;
+    height: 220px;
+    border: 2px;
+    border-radius: 30px;
+    padding-top: 170px;
+    margin: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+    background-size: cover;
+    text-align: center; 
+}
+.mr:hover{
+    transform: scale(1.07);
+}
+.mis{
+    background-image: url(./hon\ 10.png);
+   color: #FFFFFF;
+     font-weight: 700;
+      letter-spacing: 1px;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+    font-size:35px;
+    font-family: cursive;
+     width: 300px;
+    height: 220px;
+    border: 2px;
+    border-radius: 30px;
+    padding-top: 170px;
+    margin: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+    background-size: cover;
+    text-align: center;
+}
+.mis:hover{
+    transform: scale(1.07);
+}
+.more{
+    background-image: url(./hon\ 11.png);
+    color: #FFFFFF;
+     font-weight: 700;
+      letter-spacing: 1px;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+    font-size:35px;
+    font-family: cursive;
+     width: 300px;
+    height: 220px;
+    border: 2px;
+    border-radius: 30px;
+    padding-top: 170px;
+    margin: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+    background-size: cover;
+    text-align: center;
+}
+.more:hover{
+    transform: scale(1.07);
+}
+.much{
+    background-image: url(./hon\ 12.png);
+    color: #FFFFFF;
+     font-weight: 700;
+      letter-spacing: 1px;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+    font-size:35px;
+    font-family: cursive;
+     width: 300px;
+    height: 220px;
+    border: 2px;
+    border-radius: 30px;
+    padding-top: 170px;
+    margin: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+    background-size: cover;
+    text-align: center;
+}
+.much:hover{
+    transform: scale(1.07);
+}
+.four{
+    background-image: url(./hon\ 13.png);
+    color: #FFFFFF;
+     font-weight: 700;
+      letter-spacing: 1px;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+    font-size:35px;
+    font-family: cursive;
+     width: 300px;
+    height: 220px;
+    border: 2px;
+    border-radius: 30px;
+    padding-top: 170px;
+    margin: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+    background-size: cover;
+    text-align: center;
+}
+.four:hover{
+    transform: scale(1.07);
+}
+.this{
+    background-image: url(./hon\ 14.png);
+   color: #FFFFFF;
+     font-weight: 700;
+      letter-spacing: 1px;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+    font-size:35px;
+    font-family: cursive;
+     width: 300px;
+    height: 220px;
+    border: 2px;
+    border-radius: 30px;
+    padding-top: 170px;
+    margin: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+    background-size: cover;
+    text-align: center;
+}
+.this:hover{
+    transform: scale(1.07);
+}
+.dor{
+    background-image: url(./hon\ 15.png);
+    color: #FFFFFF;
+     font-weight: 700;
+      letter-spacing: 1px;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+    font-size:35px;
+    font-family: cursive;
+     width: 300px;
+    height: 220px;
+    border: 2px;
+    border-radius: 30px;
+    padding-top: 170px;
+    margin: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+    background-size: cover;
+    text-align: center;
+}
+.dor:hover{
+    transform: scale(1.07);
+}
+.pen{
+    background-image: url(./hon\ 16.png);
+   color: #FFFFFF;
+     font-weight: 700;
+      letter-spacing: 1px;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+    font-size:35px;
+    font-family: cursive;
+     width: 300px;
+    height: 220px;
+    border: 2px;
+    border-radius: 30px;
+    padding-top: 170px;
+    margin: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+    background-size: cover;
+    text-align: center;
+}
+.pen:hover{
+    transform: scale(1.07);
+}

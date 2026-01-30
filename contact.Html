@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Contact Us</title>
+    <link rel="icon" href="./logo 1.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="contact.css">
+    <link rel="stylesheet" href="./foot.css">
+    <style>
+        .one {
+            background-color: rgba(8, 1, 1, 0.964);
+            padding: 2px;
+            margin: 2px;
+            border-radius: 8px;
+            width: 1500px;
+        }
+
+        .for {
+            background-color: black;
+            padding: 10px;
+            border-radius: 7px;
+            float: inline-start;
+            color: bisque;
+            font-size: 29px;
+            font-variant: small-caps;
+            font-family: cursive;
+            margin-top: 12px;
+            margin-left: 13px;
+        }
+
+        .M {
+            font-size: 13px;
+            text-align: center;
+            color: yellow;
+            font-style: italic;
+            font-variant: normal;
+        }
+
+        .pic {
+            padding: 40px;
+            padding-top: 200px;
+            margin-top: 40px;
+            height: 450px;
+            margin: 20px;
+            /* width: 1200px; */
+            background-image: url(./cover\ 2.png);
+            background-repeat: no-repeat;
+            margin-left: 20px;
+            background-size: cover;
+            animation-name: my;
+            animation-iteration-count: infinite;
+            position: relative;
+            animation-duration: 30s;
+            border: 2px;
+            border-radius: 12px;
+            font-size: 75px;
+            text-align: center;
+            font-family: cursive;
+            font-weight: bolder;
+            color: white;
+        }
+
+
+
+        .two div {
+            font-size: 20px;
+            font-weight: 500;
+            display: inline-block;
+            font-family: 'Times New Roman', Times, serif;
+            font-variant: small-caps;
+            margin: 18px;
+            margin-left: 19px;
+            text-decoration: none;
+
+        }
+
+        .two>li {
+            display: inline-block;
+            position: relative;
+            font-size: 20px;
+            font-weight: 500;
+            font-family: 'Times New Roman', Times, serif;
+            font-variant: small-caps;
+            margin: 18px;
+        }
+
+        .two>li>a {
+            color: black;
+            text-decoration: none;
+            padding: 8px 12px;
+        }
+
+        .two>li:hover {
+            background-color: yellow;
+            border-radius: 9px;
+        }
+
+        .two div a {
+            color: black;
+            text-decoration: none;
+
+        }
+
+        .sticky {
+            position: sticky;
+            top: 0;
+            z-index: 3;
+            background-color: rgba(128, 128, 128, 0.76);
+        }
+
+
+        .two div:hover {
+            background-color: yellow;
+            border-radius: 7px;
+        }
+
+        .no {
+            color: black;
+            background-color: yellow;
+            font-weight: bolder;
+            width: 160px;
+            padding-left: 20px;
+            height: 25px;
+            padding: 20px;
+            border: 2px;
+            border-radius: 20px;
+
+        }
+
+        .no:hover {
+            color: grey;
+            border-radius: 35px;
+        }
+
+        .dropdown-menu {
+            display: none;
+            position: absolute;
+            background: white;
+            min-width: 160px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            padding: 0;
+            margin: 0;
+            list-style: none;
+            z-index: 999;
+        }
+
+
+        .dropdown:hover .dropdown-menu {
+            display: block;
+        }
+
+
+        .dropdown {
+            position: relative;
+            text-decoration: none;
+        }
+
+
+        .dropdown-menu li a {
+            padding: 10px;
+            display: block;
+            text-decoration: none;
+            color: black;
+        }
+
+        .dropdown-menu li a:hover {
+            background: #f2f2f2;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="one">
+        <a href="https://www.instagram.com/"><i class="fa-brands fa-instagram"
+                style="font-size: 26px; color:rgb(252, 4, 45); margin: 10px;"></i></a>
+        <a href="https://www.facebook.com/"><i class="fa-brands fa-facebook"
+                style="font-size: 26px; color:blue; padding: 10px;">
+            </i></a>
+        <a href="https://mail.google.com/mail/u/0/#inbox"
+            style="color:azure;text-decoration: none;font-size: 19px; padding: 25px;">
+            <i class="fas fa-envelope" style="color: bisque; font-size: 20px;"></i>
+            astravels.com
+        </a>
+    </div> <br>
+    <div class="sticky">
+        <div class="for">AS Travels
+            <img src="./logo 1.png" alt="" width="29px" height="28px"> <br>
+            <div class="M">
+
+                (Roam, Unity, Discover)
+            </div>
+        </div>
+        <div class="two">
+            <div><a href="./index.html">Home</a></div>
+            <li class="dropdown">
+                <a href="#">Company </a>
+                <ul class="dropdown-menu">
+                    <li><a href="./about.html">About us</a></li>
+                    <li><a href="./history.html">History</a></li>
+                </ul>
+            </li>
+            <div><a href="./group tours.html">Group tours</a></div>
+            <li class="dropdown">
+                <a href="#">Packages </a>
+                <ul class="dropdown-menu">
+                    <li><a href="./North india.html">North India Packages</a></li>
+                    <li><a href="./South india.html">South India packages</a></li>
+                    <li><a href="./wedding.html">Wedding Packages</a></li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a href="#">Our Map </a>
+                <ul class="dropdown-menu">
+                    <li><a href="./North india.html">North India</a></li>
+                    <li><a href="./South india.html">South India</a></li>
+                </ul>
+            </li>
+
+            <div><a href="./wedding.html">Wedding&Honeymoom</a></div>
+            <div><a href="./contact.Html">Contact</a></div>
+            <div class="no">+91 7397603995</div>
+        </div>
+
+    </div>
+
+    <section class="contact-hero">
+        <h1>Contact Us</h1>
+        <p>We’re here to help plan your perfect journey.</p>
+    </section>
+
+    <section class="contact-container">
+        <div class="contact-info">
+            <h2>Get in Touch</h2>
+            <p><strong>📍 Location:</strong> Madurai, Tamil Nadu</p>
+            <p><strong>📞 Phone:</strong> +91 73976 03995</p>
+            <p><strong>📧 Email:</strong> arunkunjammi@gmail.com</p>
+            <p><strong>🕒 Hours:</strong> Mon–Sat, 9AM–6PM</p>
+        </div>
+        <div class="contact-form">
+            <h2>Send Enquiry</h2>
+            <form>
+                <input type="text" placeholder="Full Name" required>
+                <input type="email" placeholder="Email" required>
+                <input type="tel" placeholder="Phone Number" required>
+                <input type="text" placeholder="Destination Interested">
+                <input type="date">
+                <textarea placeholder="Your Message"></textarea>
+                <button type="submit">Plan My Trip</button>
+            </form>
+        </div>
+
+    </section>
+    <section class="map">
+        <iframe src="https://www.google.com/maps/embed?..." width="100%" height="300" style="border:0;"
+            allowfullscreen=""></iframe>
+    </section>
+    <section class="why-us">
+        <h2>Why Choose Us?</h2>
+        <ul>
+            <li>✔ Custom Travel Packages</li>
+            <li>✔ Affordable Pricing</li>
+            <li>✔ 24/7 Support</li>
+            <li>✔ Trusted by Travelers</li>
+        </ul>
+    </section>
+    <footer>
+        <div class="ver">
+            <div class="last">
+                <p style="text-decoration: underline;
+             line-height:5px; font-size: 25px;">Corporate Office </p><br>
+                AS Travel pvt.Ltd <br>
+                Novel Tech Park,<br>
+                Opposite to 1 MG Mall,<br>
+                MG Road, Bangalore – 560042 <br>
+                Karnataka, India.
+            </div>
+            <div class="off">
+                <p style="font-size: 25px; text-decoration: underline;"> Head Office</p>
+                AS Travels pvt.Ltd <br>
+                No.1, Gemini Parsn, <br>
+                Kodambakkam High Road,<br>
+                Nungambakkam, Chennai – 600006 <br>
+                Tamil Nadu, India.
+            </div>
+            <div class="branch">
+                <p style="font-size: 25px; text-decoration: underline;">Our Branches </p>
+                <ul class="to">
+                    <li>Chennai</li>
+                    <li>Madurai</li>
+                    <li>Coimbatore</li>
+                    <li>Bengalauru</li>
+                    <li>Hyderabad</li>
+                    <li>Mumbai</li>
+                </ul>
+            </div>
+        </div>
+        <div class="us">
+            <div class="ph">
+                <p style="font-size: 25px; text-decoration: underline;">Call us</p>
+                +91 7397603995
+            </div>
+            <div class="follow">
+                <p style="font-size: 25px; text-decoration: underline;">Follow us</p>
+                <i class="fa-brands fa-instagram"></i>
+                <i class="fa-brands fa-facebook" style="margin-left: 10px;"></i>
+                <i class="fa-brands fa-youtube" style="margin: 10px;"></i>
+            </div>
+        </div>
+    </footer>
+
+</body>
+
+</html>

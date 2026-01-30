@@ -1,0 +1,117 @@
+.grp{
+    display: flex;
+    flex-direction: row; 
+}
+.china{
+    background-image:url(./china\ .png);
+    color: azure;
+    font-size: 35px;
+    font-family: cursive;
+     width: 300px;
+    height: 220px;
+    border: 2px;
+    border-radius: 30px;
+    padding-top: 170px;
+    margin: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+    background-size: cover;
+}
+.china:hover{
+    color: yellow;
+    transform: scale(1.04);
+    font-size: 30px;
+}
+.rus{
+    background-image: url(./russia.png);
+    color: azure;
+    font-size: 33px;
+    font-family: cursive;
+    font-weight: bolder;
+    border: 3px;
+    border-radius: 30px;
+    background-size: cover;
+    padding-top: 170px;
+    width: 300px;
+    height: 220px;
+    margin: 20px;
+    padding-left: 10px;
+
+}
+.rus:hover{
+    color: yellow;
+    transform: scale(1.04);
+    font-size: 30px;
+}
+.eng{
+    background-image: url(./eng.png);
+    color: azure;
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: bold;
+    border: 3px;
+    border-radius: 30px;
+    padding-top: 170px;
+    background-size: cover;
+    height: 220px;
+    width: 300px;margin: 20px;
+    padding-left: 10px;
+}
+.eng:hover{
+    color: yellow;
+    transform: scale(1.04);
+    font-size: 28px;
+}
+.euro{
+    background-image: url(./europe.png);
+    color: azure;
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: bolder;
+    border: 3px;
+    border-radius: 30px;
+    padding-top: 170px;
+    margin: 20px;
+    height: 220px;
+    width: 280px;
+    background-size: cover;
+    padding-left: 10px;
+    margin-right: 5px;
+}
+.euro:hover{
+    color: yellow;
+    transform: scale(1.04);
+    font-size: 28px;
+}
+.hed{
+    font-size: 35px;
+    font-weight: bolder;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 50px;
+    font-variant: small-caps;
+    transition: 1.40s ease;
+}
+/* .hed :hover{
+color: yellow;
+    transform: scale(1.04);
+    
+} */
+ .ex{
+    border: 3px;
+    color: black;
+    background-color:yellow;
+    width: 250px;
+    margin-left: 590px;
+    margin-right: 450px;
+    padding-left: 20px;
+    border-radius: 15px;
+    
+ }
+ .ex a{
+    text-decoration: none;
+    color: black;
+ }
+
+    

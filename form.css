@@ -1,0 +1,57 @@
+.head{
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 80px;
+    margin-left:890px;
+    
+} 
+ 
+ div form{ 
+    font-size: 20px;
+    margin-top: 2px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    float: right;
+    padding-right: 65px;
+    margin-right: 85px;
+    border: 1px rgb(248, 245, 245) solid;
+    padding: 50px;
+    background-color: rgba(128, 128, 128, 0.426);
+     /* background-image: url(./form\ back.png);
+    background-size: cover;  */
+     /* position: absolute;  */
+}
+.back{
+    background-image: url(./form\ back.png);
+    background-size: cover;
+    position: relative;
+    height: 850px;
+}
+.how{
+    font-size:48px;
+    margin-left: 225px;
+    color: goldenrod;
+    line-height: 80px;
+    margin-top: 190px;
+    font-weight: 700;
+
+}
+.who{
+    font-size: 25px;
+    margin: 25px;
+    margin-left: 120px;
+    color: bisque;
+    width: 150px;
+    background-color: black;
+    font-variant: small-caps;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.who:hover{
+    color: black;
+    background-color: yellow;
+}      

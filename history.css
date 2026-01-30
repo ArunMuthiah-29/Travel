@@ -1,0 +1,79 @@
+.his{
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    color:floralwhite;
+    margin: 18px;
+    border: 3px;
+    border-radius: 10px;
+    height: 420px;
+}
+.hist{
+    font-size: 60px;
+    padding-top: 60px;
+    margin-left: 610px;
+}
+.just{
+    font-size: 30px;
+    font-family: cursive;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: 150px;
+    text-align: center;
+    padding-top: 25px;
+    color:goldenrod;
+}
+.we{
+    font-size: 25px;
+    font-style: italic;
+    color: goldenrod;
+    text-align: center;
+    padding-top: 90px;
+    margin-right: 40px;
+}
+.Found{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+    padding-top: 25px;
+    text-align: end;
+    margin-right: 50px;
+   
+}
+.top{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 30px;
+    margin:30px;
+    margin-top:60px;
+    color: blue;
+}
+.free{
+    color: black;
+    font-size: 18px;
+    font-weight: 300;
+     line-height: 22px;
+    letter-spacing:2px; 
+    font-family: 'Times New Roman', Times, serif;
+}
+.hos{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 31px;
+    margin-top: 60px;
+    margin: 29px;
+    color:blue;
+}
+.on{
+    font-size: 20px;
+    font-weight: 300;
+    color:black;
+    line-height: 20px;
+    letter-spacing: 2px;
+}
+.lis{
+    color: black;
+    font-size: 20px;
+    line-height: 22px;
+    letter-spacing: 2px;
+    margin-left: 31px;
+    font-weight: 400;
+}

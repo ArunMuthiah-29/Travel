@@ -1,0 +1,43 @@
+.ver{
+    background-color: black;
+    display:flex;
+    flex-direction: row;
+    margin-top: 90px;
+}
+.last{
+    font-size: 15px;
+    color: gray; 
+    margin-top: 10px;
+    margin-left: 370px;  
+}
+.off{
+    margin-left:90px;
+    margin-top:0px;
+    color: gray;
+}
+.branch{
+    color: gray;
+    margin-left:80px;
+    margin-top:0px;    
+}
+.to{
+    margin-top:0px;
+    font-size: 19px;
+}
+.ph{
+    color: gray;
+    margin-left:500px;
+    font-size: 23px;
+}
+.follow{
+    color: gray;
+    margin-left: 150px;
+    font-size: 23px;
+
+}
+.us{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    padding: 40px;
+}
