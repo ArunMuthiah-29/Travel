@@ -4,11 +4,12 @@ body {
   background: #f9f9f9;
 }
 
-@media screen and (min-width: 480px) and(max-width: 968px) {
-  body {
-    width: 20px;
-  }
-}
+ @media only screen and (max-width: 968px) {
+            body{
+                width: 20px;
+            }
+            
+        }
 
   .contact-hero {
     background: #222;

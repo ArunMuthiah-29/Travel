@@ -6,11 +6,12 @@
     border-radius: 10px;
     height: 450px;
 }
-@media screen and (min-width: 480px) and(max-width: 968px) {
-  body {
-    width: 20px;
-  }
-}
+ @media only screen and (max-width: 968px) {
+            body{
+                width: 20px;
+            }
+            
+        }
 .AS{
    color: goldenrod;
    font-family: 'Times New Roman', Times, serif;

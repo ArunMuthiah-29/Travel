@@ -2,11 +2,12 @@
     display: flex;
     flex-direction: row; 
 }
-@media screen and (min-width: 480px) and(max-width: 968px) {
-  body {
-    width: 20px;
-  }
-}
+ @media only screen and (max-width: 968px) {
+            body{
+                width: 20px;
+            }
+            
+        }
 .china{
     background-image:url(./china\ .png);
     color: azure;

@@ -6,11 +6,12 @@
     margin-top: 45px;
     text-decoration: underline;
 }
-@media screen and (min-width: 480px) and(max-width: 968px) {
-  body {
-    width: 20px;
-  }
-}
+ @media only screen and (max-width: 968px) {
+            body{
+                width: 20px;
+            }
+            
+        }
 .h{
     font-size:29px;
     font-family: 'Times New Roman', Times, serif;
