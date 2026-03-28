@@ -6,6 +6,11 @@
     padding-left: 50px;
     font-variant: small-caps;
 }
+@media screen and (min-width: 480px) and(max-width: 768px) {
+  body {
+    width: 20px;
+  }
+}
 .go{
     display: flex;
     flex-direction: row;

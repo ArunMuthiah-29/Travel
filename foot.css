@@ -4,6 +4,11 @@
     flex-direction: row;
     margin-top:300px; 
 }
+@media screen and (min-width: 480px) and(max-width: 768px) {
+  body {
+    width: 20px;
+  }
+}
 .last{
     font-size: 15px;
     color: gray; 

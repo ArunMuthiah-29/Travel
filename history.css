@@ -6,6 +6,11 @@
     border-radius: 10px;
     height: 420px;
 }
+@media screen and (min-width: 480px) and(max-width: 768px) {
+  body {
+    width: 20px;
+  }
+}
 .hist{
     font-size: 60px;
     padding-top: 60px;
