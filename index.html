@@ -15,10 +15,10 @@
     <style>
         .one {
             background-color: rgba(8, 1, 1, 0.964);
-            padding: 2px;
-            margin: 2px;
-            border-radius: 8px;
-            width: 1500px;
+            padding: 0px;
+            margin: 8px;
+            border-radius: 10px;
+            width: 1490px;
         }
 
         .for {
@@ -44,22 +44,19 @@
         }
 
         .pic {
-            padding: 40px;
-            padding-top: 200px;
-            margin-top: 40px;
-            height: 450px;
-            margin: 20px;
-            /* width: 1200px; */
+            height: 700px;
+            padding-top: 120px;
+            margin-top: 30px;
+            width: 100%;
             background-image: url(./cover\ 2.png);
             background-repeat: no-repeat;
-            margin-left: 20px;
-            background-size: cover;
+            background-size:100% 700px;
             animation-name: my;
             animation-iteration-count: infinite;
             position: relative;
             animation-duration: 30s;
             border: 2px;
-            border-radius: 12px;
+            border-radius: 15px;
             font-size: 75px;
             text-align: center;
             font-family: cursive;
@@ -200,11 +197,10 @@
         }
 
         .pop {
-            margin-top: 50px;
+            margin-top: 10px;
             font-weight: bold;
             margin-left: 50px;
             font-size: 35px;
-            /* font-style: italic; */
             font-variant: small-caps;
         }
 
@@ -331,6 +327,13 @@
             border-radius: 15px;
             color: white;
 
+        }
+
+        @media  screen and (max-width: 480) and(min-width: 720) {
+            body{
+                width: 20px;
+            }
+            
         }
     </style>
 </head>

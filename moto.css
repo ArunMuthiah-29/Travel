@@ -8,52 +8,59 @@
 }
 .AS{
    color: goldenrod;
-   font-family: "Pirata One", system-ui;
-  font-weight: 600;
-  font-style: normal; 
-  font-size: 42px;
-  margin-left: 295px;
+   font-family: 'Times New Roman', Times, serif;
+  font-weight: 500;
+  font-variant:small-caps;
+  font-size: 37px;
+  margin-left: 205px;
   padding-top: 30px;
 }
 .AS:hover{
-    color: goldenrod;
-}
+    color: #FFFFFF;
+} 
 .our{
-    color: gold ;
+    color: #FFFFFF;
     font-family:'Times New Roman', Times, serif;
+    font-variant: small-caps;
     font-size: 30px;
-    margin-left:410px;
-    font-weight: bolder;
+    margin-left:400px;
+    font-weight: 500;
 }
 .content{
-    color:gold;
+    color:#FFFFFF;
     font-family: 'Times New Roman', Times, serif;
     font-size: 24px;
-    margin-left: 375px;
+    margin-left: 355px;
     margin-top: 25px;
 }
 .ends{
-    color: goldenrod;
+    color: #E5E7EB;
   font-family: "Cookie", cursive;
-  font-weight: 400;
+  font-weight: 300;
   font-style: italic;
-  margin-left: 345px;
-  font-size: 27px;
+  margin-left: 415px;
+  font-size: 23px;
   margin-top: 29px;
-  font-weight: bolder;
+  /* font-weight: bolder; */
 }
 .author{
     margin-left: 670px;
     margin-top: 25px;
-    font-size: 28px;
+    font-size: 27px;
     font-weight: bold;
+   color: goldenrod;
+   
 }
 .dir{
-    margin-left: 580px;
-    font-size: 24px;
+    margin-left: 560px;
+    font-size: 25px;
     margin-top: 10px;
     font-weight:600;
+   color: goldenrod;
+
 }
+.author:hover{color:#FFFFFF;}
+.dir:hover{color: #FFFFFF;}
 .run{
     font-size: 29px;
     margin-left: 650px;
