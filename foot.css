@@ -4,7 +4,7 @@
     flex-direction: row;
     margin-top:300px; 
 }
- @media only screen and (max-width: 968px) {
+ @media only screen and (max-width: 600px) {
             body{
                 width: 20px;
             }

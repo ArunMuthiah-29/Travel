@@ -4,7 +4,7 @@ body {
   background: #f9f9f9;
 }
 
- @media only screen and (max-width: 968px) {
+ @media only screen and (max-width: 600px) {
             body{
                 width: 20px;
             }
